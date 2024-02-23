@@ -6,3 +6,16 @@
 body{
     background-color: rgb(66, 201, 82);
 }
+
+img{
+    width: 40vw;
+    height: 60vh;
+ 
+
+}
+
+div p {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px  ;
+}
