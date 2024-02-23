@@ -1,3 +1,8 @@
-p{
-    color: chocolate;
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(66, 201, 82);
 }
